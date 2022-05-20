@@ -11,6 +11,7 @@ public class College {
 	}
 	private void collegeRank() {
 		System.out.println("1 st Rank");
+		System.out.println("1 st Rank");
 
 	}
 	public static void main(String[] args) {
